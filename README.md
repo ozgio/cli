@@ -1,1 +1,1 @@
-wget https://github.com/ozgio/cli/alpine.sh
+wget https://raw.githubusercontent.com/ozgio/cli/master/alpine.sh
